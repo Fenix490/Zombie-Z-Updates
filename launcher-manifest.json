@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.0",
-    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-updates/releases/download/launcher-v1.1.0/ZombieZLauncher_1.1.0.zip",
-    "sha256":  "3087213f0fbdc284c6df55539a385e8075ff90c2bdb5fb1ae531358e598c4508",
-    "sizeBytes":  131122157,
-    "notes":  "Добавлено Автоматическое обновление лаунчера и развед настроек"
+    "version":  "1.2.0",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.2.0/ZombieZLauncher_1.2.0.zip",
+    "sha256":  "45d53c4bc1f4556470a70104162cbf6b5a212c88f00f1a1a5bbb345ec75027ae",
+    "sizeBytes":  131119437,
+    "notes":  "Добавлены автоматические обновления лаунчера и игры. В настройках можно отдельно отключить автообновление лаунчера и игры."
 }
