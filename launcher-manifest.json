@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
-  "sha256": "",
-  "sizeBytes": 0,
-  "notes": "Zombie Z Launcher 1.0.0"
+    "version":  "1.1.0",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-updates/releases/download/launcher-v1.1.0/ZombieZLauncher_1.1.0.zip",
+    "sha256":  "3087213f0fbdc284c6df55539a385e8075ff90c2bdb5fb1ae531358e598c4508",
+    "sizeBytes":  131122157,
+    "notes":  "Добавлено Автоматическое обновление лаунчера и развед настроек"
 }
