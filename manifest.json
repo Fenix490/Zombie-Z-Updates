@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.6",
-    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/v1.6/Zombie_Z_1.6.zip",
-    "sha256":  "c318c1bf8cdc82de05972ecfa6caea6fa6ce9c832c1c38669d69244c0c8abe70",
-    "sizeBytes":  199037079,
-    "notes":  "Обновление Zombie Z 0.1.6"
+{
+    "version":  "1.7",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/v1.7/Zombie_Z_1.7.zip",
+    "sha256":  "c8f35e14789265b968de5c25f1184fac1f25573a5d1140231d4f02e0ca21b8fc",
+    "sizeBytes":  196997509,
+    "notes":  "Обновление Zombie Z 1.7• Добавлен парашют при высадке из самолёта• Добавлены звуки зомби• Обновлены звуки шагов игрока"
 }
