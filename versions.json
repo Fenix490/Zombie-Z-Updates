@@ -14,5 +14,15 @@
                          "sizeBytes":  195572237,
                          "notes":  "Обновление 1.5 "
                      }
+
+                    {
+                         "version":  "1.3",
+                         "downloadUrl":  "releases/Zombie_Z_1.3.zip",
+                         "sha256":  "4389fb28462deb63ca8080b7891315542ccd2e5ddbba77fdf26eed46f5df06a4",
+                         "sizeBytes":  172282637,
+                         "notes":  "Обновление игры 1.3"
+                     }
+                        
                  ]
+    
 }
