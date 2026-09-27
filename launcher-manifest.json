@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.0",
-    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.2.0/ZombieZLauncher_1.2.0.zip",
-    "sha256":  "45d53c4bc1f4556470a70104162cbf6b5a212c88f00f1a1a5bbb345ec75027ae",
-    "sizeBytes":  131119437,
-    "notes":  "Добавлены автоматические обновления лаунчера и игры. В настройках можно отдельно отключить автообновление лаунчера и игры."
+    "version":  "1.3.0",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.3.0/ZombieZLauncher_1.3.0.zip",
+    "sha256":  "b16fe4fb8c0596bd81889d6bbf3e906b72002a2c735a1798ffc99a6abaed48cc",
+    "sizeBytes":  131130726,
+    "notes":  "Патч: убрать кнопку"
 }
