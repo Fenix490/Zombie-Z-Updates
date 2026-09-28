@@ -1,7 +1,7 @@
 {
-    "version":  "1.7",
-    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/v1.7/Zombie_Z_1.7.zip",
-    "sha256":  "c8f35e14789265b968de5c25f1184fac1f25573a5d1140231d4f02e0ca21b8fc",
-    "sizeBytes":  196997509,
-    "notes":  "Обновление Zombie Z 1.7 \n• Добавлен парашют при высадке из самолёта \n• Добавлены звуки зомби \n• Обновлены звуки шагов игрока"
+    "version":  "1.8",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/v1.8/Zombie_Z_1.8.zip",
+    "sha256":  "540f83900486bde08366b49d03dda24b4614a8b89d885e913a1e58fa6553d8e2",
+    "sizeBytes":  197116716,
+    "notes":  "Обновление Zombie Z 1.8 \n • Оптимизация для слабых пк \n• Добавлены расширенные настройки графики \n • Добавлены отдельные настройки окружения и экрана \n • Проведена оптимизация для слабых компьютеров \n • Улучшена система парашюта \n • Исправлены найденные ошибки "
 }
