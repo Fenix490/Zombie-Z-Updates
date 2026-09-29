@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.0",
-    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.3.0/ZombieZLauncher_1.3.0.zip",
-    "sha256":  "b16fe4fb8c0596bd81889d6bbf3e906b72002a2c735a1798ffc99a6abaed48cc",
-    "sizeBytes":  131130726,
-    "notes":  "Патч: убрать кнопку"
+    "version":  "1.5.0",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.5.0/ZombieZLauncher_1.5.0.zip",
+    "sha256":  "fe66018465568eca823f22cefd822d9296f336a01523fb8bdcac4cd5d0c6e4f8",
+    "sizeBytes":  131519386,
+    "notes":  "Обновление интерфейса Лаунчера "
 }
