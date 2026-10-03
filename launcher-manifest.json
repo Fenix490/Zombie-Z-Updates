@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.0",
-    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.6.0/ZombieZLauncher_1.6.0.zip",
-    "sha256":  "a0d1997fcb11734508b5012d05b2f699d50d422afe9f4df12171122a6fc55373",
-    "sizeBytes":  131528751,
-    "notes": "Обновление Zombie Z Launcher 1.6.0\n• Обновлён дизайн настроек\n• Добавлена проверка целостности файлов игры\n• Добавлено восстановление повреждённых файлов\n• Добавлен прогресс загрузки в процентах и мегабайтах\n• Добавлена возможность остановить загрузку\n• Добавлена защита от повторного запуска игры\n• Улучшено обновление иконки лаунчера на рабочем столе\n• Улучшена система обслуживания игры"
+    "version":  "1.7.1",
+    "downloadUrl":  "https://github.com/Fenix490/Zombie-Z-Updates/releases/download/launcher-v1.7.1/ZombieZLauncher_1.7.1.zip",
+    "sha256":  "386f6803923dbb556c5fb4306631d859301442ca59e067bbd7024d26250c603b",
+    "sizeBytes":  131908730,
+    "notes":  "Обновление интерфейса и настроек лаунчера"
 }
